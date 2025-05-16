@@ -1,2 +1,2 @@
-const nom = prompt("Quel est votre nom ? "); 
-console.log(`Bonjour ${nom}) !`);
+const nom = prompt("Quel est votre nom ?"); 
+console.log(`Bonjour ${nom} !`);
